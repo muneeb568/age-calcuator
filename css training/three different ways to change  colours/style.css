@@ -1,0 +1,10 @@
+input [type="text"]{
+ color:red
+ background-color:blue
+}
+input[type="password"]{
+  background-color: pink;
+
+}
+      
+
